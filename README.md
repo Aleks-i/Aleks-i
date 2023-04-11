@@ -15,7 +15,7 @@
 
 
 ### Сертификаты JavaOPs
-- [Java Web developer (with distinction)](https://javaops.ru/certificate/basejava?email=i.vanovaleksval@gmail.com)
+- [Java Web developer (с отличием)](https://javaops.ru/certificate/basejava?email=i.vanovaleksval@gmail.com)
 - [Java Enterprise developer](https://javaops.ru/certificate/topjava?email=i.vanovaleksval@gmail.com&lang=ru&group=topjava21)
 
 
@@ -26,7 +26,7 @@
 - [Дипломная работа - A voting system for deciding where to have lunch REST API](https://github.com/Aleks-i/VoitingRestaurants)
 
 ### Олимпиады и соревнования
-- [Пока тут пусто, но очень скоро что то появится]()
+- [Сертификат о прохождении яндекс тренировок по алгоритмам 3.0](https://contest.s3.yandex.net/academy/trainings-30/common/ab38040f-569c-4d86-847e-888a48bff09f.pdf) - [Решено 100 % задач дивизиона В, позиция 255 в общем рейтинге участников](https://yastatic.net/s3/lyceum/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA_3_0%E2%80%94%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%B0.xlsx)
 
 ### Тестовые задания
 - [Тестовое задание Сбре банк, 2020 год](https://github.com/Aleks-i/RestFullService_TestTask)
