@@ -1,8 +1,8 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Aleks-i)
 <h1 align="center">Привет, я Иванов Алексей 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/></h1>
 
-<h3 align="center">Разработчик на Java и не только</h>
+<h3 align="center">Разработчик на Java и не только</h3>
 
 
 ### А вот мои достижения начиная с 2019 года, включая, но не ограничиваясь:

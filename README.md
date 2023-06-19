@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Alex 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/></h1>
 
-<h3 align="center">Java developer and more</h>
+<h3 align="center">Java developer and more</h3>
 
 
 ### And here are my achievements since 2019, including but not limited to:
