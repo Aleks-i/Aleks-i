@@ -9,8 +9,8 @@
 
 ### Internships:
 - [Internship topjava21(Java Enterprise)](https://github.com/Aleks-i/topjava21)
-- [Internship basejava(Web application development)](https://github.com/Aleks-i/basejava)
-- [Internship topjava26(Java Enterprise)](https://github.com/Aleks-i/topjava26)
+- [Internship basejava(Web application development) repository](https://github.com/Aleks-i/basejava) || [https://basejavaaleksi.ru/](https://basejavaaleksi.ru/)
+- [Internship topjava26(Java Enterprise) repository](https://github.com/Aleks-i/topjava26) || [https://topjavaaleksi.ru/](https://topjavaaleksi.ru/)
 - [Internship bootjava(Spring Boot application development)](https://github.com/Aleks-i/bootjava)
 - [Internship masterjava(Multimodule maven. Multithreading. xml. Web services. Remote interaction, in the process of passing)](https://github.com/Aleks-i/masterjava)
 
