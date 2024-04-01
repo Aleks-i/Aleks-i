@@ -35,4 +35,6 @@
 ### Pet projects
 - [Internet shop for fishing and hunting](https://github.com/Aleks-i/rybachek)
 - [Internet site for cargo transportation and moving:](https://github.com/Aleks-i/Gruz) [грузчики74.рф](https://грузчики74.рф)
-- [Telegram bot](https://github.com/Aleks-i/botfroshareholders)
+- [Telegram bot](https://github.com/Aleks-i/botfroshareholders): [valerrianych_bot](https://t.me/valerrianych_bot)
+- [My site](https://github.com/Aleks-i/digitalia): [digitalia.tech](https://digitalia.tech/)
+- [Studying AI and machine learning](https://github.com/Aleks-i/my-first-II)
