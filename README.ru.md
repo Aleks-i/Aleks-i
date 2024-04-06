@@ -10,7 +10,7 @@
 ### Стажировки:
 - [Стажировка topjava21(Java Enterprise)](https://github.com/Aleks-i/topjava21)
 - [Стажировка basejava(Web application development) repository](https://github.com/Aleks-i/basejava) || [https://basejavaaleksi.ru/](https://basejavaaleksi.ru/)
-- [Стажировка topjava26(Java Enterprise) repository](https://github.com/Aleks-i/topjava26) || [https://topjavaaleksi.ru/](https://topjavaaleksi.ru/)
+- [Стажировка topjava26(Java Enterprise) repository](https://github.com/Aleks-i/topjava26) || [https://topjavaaleksi.ru/](https://topjavaaleksi.ru/topjava/)
 - [Стажировка bootjava(Spring Boot application development)](https://github.com/Aleks-i/bootjava)
 - [Стажировка masterjava(Multimodule maven. Multithreading. xml. Web services. Remote interaction в процессе прохождения)](https://github.com/Aleks-i/masterjava)
 
