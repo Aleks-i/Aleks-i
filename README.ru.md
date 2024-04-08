@@ -35,4 +35,3 @@
 ### Pet-проекты
 - [Интернет магазин рыбалки и охоты](https://github.com/Aleks-i/rybachek)
 - [Интернет сайт по грузоперевозкам и переездам:](https://github.com/Aleks-i/Gruz) [грузчики74.рф](https://грузчики74.рф)
-- [Телеграмм бот](https://github.com/Aleks-i/botfroshareholders)
